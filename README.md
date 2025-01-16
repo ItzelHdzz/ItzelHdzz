@@ -38,10 +38,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/VHDL_logo.svg" alt="vhdl" width="40" height="40"/> 
+    <img src="https://tu-repositorio.github.io/assets/vhdl_logo.png" alt="vhdl" width="40" height="40"/> 
   </a>
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Assembly_logo.svg" alt="assembly" width="40" height="40"/> 
+    <img src="https://tu-repositorio.github.io/assets/assembly_logo.png" alt="assembly" width="40" height="40"/> 
   </a>
 </p>
 
