@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
@@ -37,11 +37,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.vhdl.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/VHDL_logo.svg" alt="vhdl" width="40" height="40"/> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/VHDL_logo.svg" alt="vhdl" width="40" height="40"/> 
   </a>
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Assembly_language_logo.png" alt="assembly" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Assembly_logo.svg" alt="assembly" width="40" height="40"/> 
   </a>
 </p>
 
