@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://tu-repositorio.github.io/assets/vhdl_logo.png" alt="vhdl" width="40" height="40"/> 
+    <img src="https://github.com/ItzelHdzz/ItzelHdzz/blob/40dd9e85867fab31f0b20f7034f4fb686da151e3/vhdl.png" alt="vhdl" width="40" height="40"/> 
   </a>
   <a href="#" target="_blank" rel="noreferrer"> 
     <img src="https://tu-repositorio.github.io/assets/assembly_logo.png" alt="assembly" width="40" height="40"/> 
