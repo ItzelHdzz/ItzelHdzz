@@ -1,48 +1,67 @@
-<h1 align="center">Hi 👋, I'm Itzel Hernandez</h1>
-<h3 align="center">A passionate Robotics and Digital Systems Engineering student</h3>
+<h1 align="center">Hi 👋, I'm Itzel Hernández</h1>
+<h3 align="center">Robotics & Intelligent Systems Engineer | ROS2 · Computer Vision · Embedded Systems</h3>
 
-- 🎓 I’m currently studying at **Instituto Tecnologico y de Estudios Superiores de Monterrey**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ItzelHdzz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🌱 I’m currently learning **Control systems and circuit design**
+---
 
-- 💻 All of my projects are available at [ItzelHdzz](ItzelHdzz)
+### 🤖 About Me
+- 🎓 B.S. in Robotics and Intelligent Systems @ **Tecnológico de Monterrey** (2026)
+- 🌱 Currently working with **ROS2, Computer Vision & Collaborative Robotics**
+- 🍓 Built an autonomous strawberry harvesting system with UR3e + YOLO
+- 📍 Puebla, México
+- 📫 Reach me at **A01737526@tec.mx**
 
-- 📫 How to reach me **A01737526.tec.mx**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/ana-itzel-hern%C3%A1ndez-garc%C3%ADa-6a7a0129b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ana Itzel Hernández García" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ana-itzel-hernández-garcía-irs" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/ItzelHdzz/ItzelHdzz/blob/40dd9e85867fab31f0b20f7034f4fb686da151e3/vhdl.png" alt="vhdl" width="40" height="40"/> 
-  </a>
-  <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://tu-repositorio.github.io/assets/assembly_logo.png" alt="assembly" width="40" height="40"/> 
-  </a>
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItzelHdzz&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzelHdzz&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+---
+
+### 🔥 Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ItzelHdzz&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🍓 Strawberry Harvesting System | Autonomous cobot + YOLO fruit detection | Python, UR3e, YOLO, MQTT |
+| 🤖 Autonomous Navigation Robot | ROS2 mobile robot with traffic sign detection | ROS2, YOLOv8, Jetson Nano |
+| ⚙️ Motor Control System | Closed-loop DC motor control via Micro-ROS | ROS2, ESP32, Micro-ROS |
+| 🌿 Smart Greenhouse | PID-controlled environment + mobile app | Arduino, Firebase, Android |
