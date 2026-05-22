@@ -12,7 +12,7 @@
 - 🌱 Currently working with **ROS2, Computer Vision & Collaborative Robotics**
 - 🍓 Built an autonomous strawberry harvesting system with UR3e + YOLO
 - 📍 Puebla, México
-- 📫 Reach me at **A01737526@tec.mx**
+- 📫 Reach me at **a.itzel.hernandez.g@gmail.com**
 
 ---
 
