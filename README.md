@@ -56,12 +56,4 @@
   <img src="https://streak-stats.demolab.com?user=ItzelHdzz&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-### 📌 Featured Projects
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🍓 Strawberry Harvesting System | Autonomous cobot + YOLO fruit detection | Python, UR3e, YOLO, MQTT |
-| 🤖 Autonomous Navigation Robot | ROS2 mobile robot with traffic sign detection | ROS2, YOLOv8, Jetson Nano |
-| ⚙️ Motor Control System | Closed-loop DC motor control via Micro-ROS | ROS2, ESP32, Micro-ROS |
-| 🌿 Smart Greenhouse | PID-controlled environment + mobile app | Arduino, Firebase, Android |
